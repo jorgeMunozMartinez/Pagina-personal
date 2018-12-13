@@ -13,7 +13,11 @@ body {
 }
 
 .progress-bar {
-  background-color: #3b245d;
+  background-color: #3b245d!important;
+}
+
+.bg-primary {
+    background-color: #3b245d!important;
 }
 
 @media (min-width: 992px) {
