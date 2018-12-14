@@ -9,6 +9,14 @@
 	color: #868e96
 }
 
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  margin-bottom: 30px;
+}
+
 .progress-bar{
   background-color: #3b245d;
   linear-gradient: #8b55db;
