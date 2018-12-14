@@ -11,6 +11,7 @@
 
 .progress-bar{
   background-color: #3b245d;
+  linear-gradient: #8b55db;
 }
 
 @media (min-width:992px) {
