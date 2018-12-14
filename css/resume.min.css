@@ -9,6 +9,10 @@
 	color: #868e96
 }
 
+.progress-bar{
+  background-color: #3b245d;
+}
+
 @media (min-width:992px) {
 	body {
 		padding-top: 0;
