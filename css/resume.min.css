@@ -330,7 +330,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .icono {
-  color: #868e96;
+      color: rgba(255,255,255,.5);
 }
 
 .icono:hover{
