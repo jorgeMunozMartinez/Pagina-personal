@@ -17,7 +17,12 @@ body {
   color: #333;
   margin: 0 0 20px;
 }
-
+@-webkit-keyframes animate-positive{
+    0% { width: 0; }
+}
+@keyframes animate-positive{
+    0% { width: 0; }
+}
 .progress {
   height: 20px;
   background: #CACACA;
@@ -26,6 +31,7 @@ body {
   margin-bottom: 30px;
   overflow: visible;
 }
+
 
 .progress .progress-bar {
   position: relative;
