@@ -8,6 +8,14 @@ body {
   padding-top: 54px;
   color: #868e96
 }
+.iconoP{
+  color: #3b245d;
+}
+.iconoP:hover {
+  color: #8b55db;
+}
+
+h4, span { color:#868e96; }
 
 .box > .icon { text-align: center; position: relative; }
 .box > .icon > .image { position: relative; z-index: 2; margin: auto; width: 88px; height: 88px; border: 8px solid white; line-height: 88px; border-radius: 50%; background: #3b245d; vertical-align: middle; }
@@ -299,6 +307,7 @@ p.lead {
     display: block
   }
 }
+
 
 section.resume-section {
   padding-top: 5rem !important;
