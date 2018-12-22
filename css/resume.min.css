@@ -8,6 +8,9 @@ body {
   padding-top: 54px;
   color: #868e96
 }
+.card-img-top{
+  width:100%;
+}
 .iconoP{
   color: #3b245d;
 }
